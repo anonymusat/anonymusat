@@ -10,7 +10,7 @@
     </a>
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=anonymusat&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/102029388?s=400&u=c67c55f53dd189c73817620a4c9152c377cd22d0&v=4?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=at.__010&github=anonymusat&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=anonymusat&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/103942800?s=400&u=1c50fee9bc5eaf91a4552eb11419c9894c2e02d0&v=4?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=at.__010&github=anonymusat&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <div align="center">
   <p align="center">
