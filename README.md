@@ -1,10 +1,10 @@
-# Hi We are AYUSH And DEVILL-MASCOT;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+# Hi I AM ANONYMUSAT/AYUSH<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+DEVILL+MASCOT+PROFILE."
+    src="https://readme-typing-svg.herokuapp.com?size=30&width=900&lines=Welcome+To+ANONYMUSAT+PROFILE+Hope+you+like+my+codes"
             alt="Typing SVG"
         />
     </a>
@@ -14,7 +14,7 @@
 
 <div align="center">
   <p align="center">
-<img src="DEVILL.jpeg" alt="GIF" width="128" height="128"/>
+<img src="HACKER.jpg" alt="GIF" width="128" height="128"/>
 </p>
  <p align="center">
 <a href="#"><img title="anonymusat" src="https://img.shields.io/badge/anonymusat-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
