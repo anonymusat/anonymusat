@@ -1,6 +1,6 @@
 # Hi I AM ANONYMUSAT/AYUSH<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
-
 ## <!-- Typing SVG -->
+
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
@@ -30,6 +30,7 @@ Project created by <a href="https://github.com/anonymusat">anonymusat</a> to mak
         Reserved |
     <br> 
 </p>
+
 
 ----
 ## Welcome To My Profile
